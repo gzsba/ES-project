@@ -1,6 +1,6 @@
 Elasticsearch
 Copyright 2009-2017 Elasticsearch
-
+0406-release修改
 This product includes software developed by The Apache Software Foundation
 (http://www.apache.org/).
 
